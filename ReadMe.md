@@ -13,11 +13,11 @@ This simple project demonstrates :
 
 Demo - Mac
 
-![Mac](mac.gif)
+![Mac](https://github.com/KrisYu/Water/blob/master/mac.gif?raw=true)
 
 Demo - iPhone
 
-![iPhone](iphone.gif)
+![iPhone](https://github.com/KrisYu/Water/blob/master/iphone.gif?raw=true)
 
 
 ## Build and Run
@@ -26,13 +26,13 @@ Choose to run OSX or iOS version.
 
 **Notice: iOS simulator doesnot support Metal framework, you have to run it on a real A7 iPhone.**
 
-![](run.png)
+![](https://github.com/KrisYu/Water/blob/master/run.png?raw=true)
 
-
-This is an experiment with Apple Swift/Metal shading language. Bascially I just port this [WebGL shadertoy](https://www.shadertoy.com/view/4slGRM) to Metal.
 
 ## Thanks
 
+This is an experiment with Apple Swift/Metal shading language. Bascially I just port this [WebGL shadertoy](https://www.shadertoy.com/view/4slGRM) to Metal.
 
-- Victor Korsun for letting me use his shader code 
+
+- Special thanks to Victor Korsun for letting me use his shader code 
 - [http://metalkit.org](http://metalkit.org) for all the nice tutorials 
